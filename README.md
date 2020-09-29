@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**akalittle/akalittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Basic info
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔  I’m looking for hire ~ Golang ~ Nodejs.
+- ⚓   Can relocation to Shanghai、Hangzhou,overseas job is also in consideration.
+- 🔭  Currently working on Reactjs. However,interested in Golang & Nodejs.
+- 📫  U can reach me with sending an email to sixinlei0927@gmail.com
+
+
+
+###  More
+
+-  ⚡   Fun fact: Marathon runner. 
+-  🥶  Footerball lover.Chelsea fans.
+-  ☕   Coffee addict
