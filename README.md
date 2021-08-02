@@ -2,7 +2,7 @@
 
 
 ### Basic info
-- 🔭  Currently working on Reactjs. However,interested in Golang & Nodejs.
+- 🔭  Currently working on Golang & Reactjs.
 - 📫  U can reach me with sending an email to sixinlei0927@gmail.com
 
 
