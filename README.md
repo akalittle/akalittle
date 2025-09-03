@@ -8,11 +8,4 @@
 
 
 ### Basic info
-- 🔭  Currently working on Golang & Reactjs.
-
-
-###  More
-
--  ⚡   Fun fact: Marathon runner. 
--  🥶  Footerball lover.Chelsea fans.
--  ☕   Coffee addict.
+- 🔭  One one
