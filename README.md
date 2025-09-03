@@ -8,4 +8,4 @@
 
 
 ### Basic info
-- 🔭  One one
+- 🔭  No one
